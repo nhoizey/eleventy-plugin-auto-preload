@@ -1,0 +1,36 @@
+{
+  "name": "eleventy-plugin-auto-preload",
+  "description": "A plugin for Eleventy that adds a preload for the first image with fetchpriority=high",
+  "version": "1.0.0",
+  "author": "Nicolas Hoizey",
+  "license": "MIT",
+  "keywords": [
+    "eleventy",
+    "preload",
+    "performance",
+    "plugin",
+    "static-site-generator",
+    "static-site",
+    "eleventy-plugin",
+    "preload",
+    "fetchpriority"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhoizey/eleventy-plugin-auto-preload.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nhoizey/eleventy-plugin-auto-preload/issues"
+  },
+  "homepage": "https://github.com/nhoizey/eleventy-plugin-auto-preload#readme",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "@11ty/eleventy": ">= 1.0 < 2"
+  },
+  "dependencies": {
+    "linkedom": "^0.14.19"
+  }
+}
