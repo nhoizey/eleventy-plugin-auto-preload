@@ -1,6 +1,6 @@
 # eleventy-plugin-auto-preload
 
-[![GitHub stars](https://img.shields.io/github/stars/nhoizey/eleventy-plugin-auto-preload.svg?style=social)](https://github.com/nhoizey/eleventy-plugin-auto-preload/stargazers)
+[![npm](https://img.shields.io/npm/v/eleventy-plugin-auto-preload)](https://www.npmjs.com/package/eleventy-plugin-auto-preload) [![npm](https://img.shields.io/npm/dw/eleventy-plugin-auto-preload)](https://www.npmjs.com/package/eleventy-plugin-auto-preload) [![NPM](https://img.shields.io/npm/l/eleventy-plugin-auto-preload)](https://github.com/nhoizey/eleventy-plugin-auto-preload/blob/main/LICENSE) [![GitHub Repo stars](https://img.shields.io/github/stars/nhoizey/eleventy-plugin-auto-preload?style=social)](https://github.com/nhoizey/eleventy-plugin-auto-preload/)
 
 `eleventy-plugin-auto-preload` is a plugin for [Eleventy](https://11ty.dev/) that adds a preload for the first image with `fetchpriority="high"`.
 
