@@ -1,7 +1,7 @@
 {
   "name": "eleventy-plugin-auto-preload",
   "description": "A plugin for Eleventy that adds a preload for the first image with fetchpriority=high",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "Nicolas Hoizey",
   "license": "MIT",
   "keywords": [
