@@ -23,6 +23,7 @@ module.exports = async (eleventyConfig) => {
     link.setAttribute("rel", "preload");
     link.setAttribute("as", "image");
     link.setAttribute("fetchpriority", "high");
+    link.setAttribute("crossorigin", "anonymous");
 
     // Check if this is a responsive images
     const srcset = image.getAttribute("srcset");
