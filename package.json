@@ -24,9 +24,6 @@
   },
   "homepage": "https://github.com/nhoizey/eleventy-plugin-auto-preload#readme",
   "main": ".eleventy.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "peerDependencies": {
     "@11ty/eleventy": ">= 1.0 < 2"
   },
