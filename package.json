@@ -25,9 +25,9 @@
   "homepage": "https://github.com/nhoizey/eleventy-plugin-auto-preload#readme",
   "main": ".eleventy.js",
   "peerDependencies": {
-    "@11ty/eleventy": ">= 1.0 < 2"
+    "@11ty/eleventy": "^1.0.2"
   },
   "dependencies": {
-    "linkedom": "^0.14.19"
+    "linkedom": "^0.14.25"
   }
 }
