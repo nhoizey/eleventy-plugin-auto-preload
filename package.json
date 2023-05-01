@@ -28,6 +28,6 @@
     "@11ty/eleventy": "^1.0.2"
   },
   "dependencies": {
-    "linkedom": "^0.14.25"
+    "linkedom": "^0.14.26"
   }
 }
