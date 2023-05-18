@@ -1,4 +1,4 @@
-# eleventy-plugin-auto-preload
+# `eleventy-plugin-auto-preload`
 
 [![npm](https://img.shields.io/npm/v/eleventy-plugin-auto-preload?logo=npm&style=for-the-badge)](<![npm](https://img.shields.io/npm/v/eleventy-plugin-auto-preload?logo=npm&style=for-the-badge)>)
 [![npm](https://img.shields.io/npm/dw/eleventy-plugin-auto-preload?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/eleventy-plugin-auto-preload)
